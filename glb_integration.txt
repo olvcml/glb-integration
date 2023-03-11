@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=""UTEF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Model viewer</title>
+        <script type="module" src="https://unpkg.com/@google/model-viewer@1.12.0/dist/model-viewer.js"></script>
+        <style>
+                model-viewer{
+                    width: 1000px;
+                    height: 800px;
+                    margin: 0 auto;
+                }
+        </style>
+    </head>
+    <body>
+        <model-viewer src="_ _ _ _ _ _ _ _ _ _ _ _ _ " 
+        camera-controls 
+        auto-rotate 
+        shadow-intensity="1" 
+        ></model-viewer>
+    </body>
+</html>
